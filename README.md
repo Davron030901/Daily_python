@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Dayly_python
 =======
 # Hello
@@ -11,3 +12,6 @@
 =======
 # Day1-VariablesInPython
 >>>>>>> VariablesInPython/main
+=======
+# TipCalculatorAndBMI
+>>>>>>> TipCalculatorAndBMI/main
