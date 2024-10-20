@@ -1,0 +1,1 @@
+print("Text lenth="+str(len(input("Enter text: "))))
