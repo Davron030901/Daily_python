@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Dayly_python
 =======
 # Hello
@@ -7,3 +8,6 @@
 =======
 # text-length
 >>>>>>> text-length/main
+=======
+# Day1-VariablesInPython
+>>>>>>> VariablesInPython/main
