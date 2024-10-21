@@ -1,0 +1,10 @@
+a=int(input("a="))
+b=int(input("b="))
+c=int(input("c="))
+c=a+b+c
+a=c-(b+a)
+b=c-(b+a)
+c=c-(b+a)
+print("a=",a)
+print("b=",b)
+print("c=",c)
