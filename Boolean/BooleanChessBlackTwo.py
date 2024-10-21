@@ -1,0 +1,2 @@
+a1,b1,a2,b2=int(input("Enter box width  first number: ")),int(input('Enter box height first number: ')),int(input("Enter box width second number: ")),int(input('Enter box height second number: '))
+print(a1>0 and a1<9 and b1>0 and b1<9 and ((a1%2==1 or b1%2==1) and (a1%2==0 or b1%2==0)) and a2>0 and a2<9 and b2>0 and b2<9 and ((a2%2==1 or b2%2==1) and (a2%2==0 or b2%2==0)))
