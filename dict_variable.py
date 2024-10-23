@@ -20,3 +20,5 @@ d["xyz"]=123
 d['abs']=345
 for z in d:
     print("%s  %d" % (z,d[z]))
+for q,w in d.items():
+    print(f"{q}:{w}")
